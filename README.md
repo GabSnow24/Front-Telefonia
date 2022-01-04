@@ -7,12 +7,12 @@ http://ec2-18-230-21-0.sa-east-1.compute.amazonaws.com
 
 Instruções
 
-Yarn Install
+yarn install
 
-Yarn Dev
+yarn dev
 
-Yarn Build (pra criar build)
+yarn build (pra criar build)
 
-Yarn Start (pra rodar build)
+yarn start (pra rodar build)
 
 Cadastre um usuário, ou use o cliente@hotmail.com - 123456
