@@ -1,5 +1,5 @@
 Front-Telefonia
-App para cálculo de planos de telefonia.
+App para cálculo de planos de telefonia. Feito visando o mobile first, podendo ser utilizado por qualquer aparelho mobile sem qualquer prejuízo.
 
 Instância AWS EC2
 
